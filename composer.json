@@ -13,13 +13,7 @@
         "php": ">=5.5.9",
         "illuminate/support": "~5",
         "maatwebsite/excel": "~3.1.0"
-    },
-    "repositories": [  
-        {  
-            "type": "vcs",  
-            "url": "https://github.com/waltermaldonado/laravel-report-generator"  
-        }  
-    ],  
+    },      
     "autoload": {
         "psr-4": {
             "Jimmyjs\\ReportGenerator\\": "src/"
